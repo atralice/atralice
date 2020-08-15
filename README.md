@@ -2,7 +2,7 @@
 
 I’m **Toni Tralice**, Ed-Tech entrepreneur from Tucumán, Argentina.
 
-Co-Founder of [**@soyHenry**](https://www.soyhenry.com/), an online CS training program with cero upfront cost where students pay a share of their future income.
+Co-Founder of [**@soyHenry**](https://www.soyhenry.com/), an online CS training program with zero upfront cost where students pay a share of their future income.
 
 Previously I co-founded the [first coding Bootcamp in Latam](https://plataforma5.la/).
 
