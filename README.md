@@ -9,7 +9,6 @@ Previously I co-founded the [first coding Bootcamp in Latam](https://plataforma5
 :mailbox: I would love to talk anything related with Education and Technology, feel free to reach out at atralice@gmail.com
 
 - [Linkedin](https://www.linkedin.com/in/antoniotralice/)
-- [Twitter](https://twitter.com/atralice)
+- [Twitter](https://twitter.com/tonitralice)
 - [Instagram](https://www.instagram.com/atralice/)
-- [Personal Website](https://fotografia.tonitralice.com.ar/)
 - [Blog](https://medium.com/@atralice)
