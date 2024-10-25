@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m **Toni Tralice**, Ed-Tech entrepreneur from Tucumán, Argentina.
+I’m **Toni Tralice**, Sofware Engineer and Ed-Tech entrepreneur from Tucumán, Argentina.
 
 Co-Founder of [**@soyHenry**](https://www.soyhenry.com/), an online CS training program with zero upfront cost where students pay a share of their future income.
 
